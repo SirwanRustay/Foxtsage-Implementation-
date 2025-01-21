@@ -27,7 +27,7 @@ To use the code and run experiments locally, clone this repository and install t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/foxtsage-optimizer.git
+   git clone https://github.com/SirwanRustay/Foxtsage-Implementation-.git
    cd foxtsage-optimizer
    ```
 
